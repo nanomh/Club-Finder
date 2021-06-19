@@ -1,2 +1,2 @@
 # Club-Finder
-Submission Belajar Fundamental Front-End Web Development Dicoding
+Materi Belajar Fundamental Front-End Web Development Dicoding
